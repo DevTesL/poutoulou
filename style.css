@@ -58,7 +58,7 @@ body {
 
 /* ── TOPBAR ─────────────────────────────────────────────────────── */
 .topbar {
-  background: var(--navy);
+  background: darkgreen;
   color: rgba(255, 255, 255, .7);
   text-align: center;
   padding: 9px 16px;
@@ -318,6 +318,8 @@ nav {
 }
 
 .hero-inner {
+  background: rgba(8, 17, 42, .6);
+  /* background: darkgreen; */
   max-width: 1240px;
   margin: 0 auto;
   padding: 100px 28px 80px;
